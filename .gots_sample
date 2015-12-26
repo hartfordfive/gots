@@ -1,0 +1,6 @@
+user = youremail@example.com
+api_key = [your_api_key]
+# The following line enables debug mode for more verbose output
+#debug = true
+# The following setting can be used to specify an alternate host name in the situation you self host the application.
+#ots_host = https://ots.example.com
